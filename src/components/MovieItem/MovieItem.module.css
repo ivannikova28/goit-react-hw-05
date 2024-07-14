@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  padding: 10px;
+  background-color: beige;
+  border: 1px solid chocolate;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.image {
+  width: 100%;
+}

@@ -1,0 +1,10 @@
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+.title {
+  font-size: 36px;
+  color: rgb(12, 5, 109);
+  margin-right: auto;
+  margin-left: 50px;
+}
